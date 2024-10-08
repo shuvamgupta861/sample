@@ -1,0 +1,103 @@
+[
+    {
+      "action": "yes",
+      "period": "2024-01-15",
+      "resultType": "audited",
+      "financial": "yes",
+      "operational": "no",
+      "status": "done",
+      "total1": 155,
+      "total2": 40
+    },
+    {
+      "action": "no",
+      "period": "2024-02-28",
+      "resultType": "projected",
+      "financial": "no",
+      "operational": "yes",
+      "status": "pending",
+      "total1": 125,
+      "total2": 60
+    },
+    {
+      "action": "yes",
+      "period": "2024-03-10",
+      "resultType": "audited",
+      "financial": "yes",
+      "operational": "yes",
+      "status": "done",
+      "total1": 110,
+      "total2": 70
+    },
+    {
+      "action": "no",
+      "period": "2024-04-25",
+      "resultType": "projected",
+      "financial": "no",
+      "operational": "no",
+      "status": "pending",
+      "total1": 165,
+      "total2": 90
+    },
+    {
+      "action": "yes",
+      "period": "2024-05-15",
+      "resultType": "audited",
+      "financial": "yes",
+      "operational": "no",
+      "status": "done",
+      "total1": 155,
+      "total2": 45
+    },
+    {
+      "action": "no",
+      "period": "2024-06-05",
+      "resultType": "projected",
+      "financial": "yes",
+      "operational": "yes",
+      "status": "pending",
+      "total1": 150,
+      "total2": 25
+    },
+    {
+      "action": "yes",
+      "period": "2024-07-20",
+      "resultType": "audited",
+      "financial": "no",
+      "operational": "yes",
+      "status": "done",
+      "total1": 90,
+      "total2": 120
+    },
+    {
+      "action": "no",
+      "period": "2024-08-30",
+      "resultType": "projected",
+      "financial": "no",
+      "operational": "no",
+      "status": "pending",
+      "total1": 100,
+      "total2": 110
+    },
+    {
+      "action": "yes",
+      "period": "2024-09-15",
+      "resultType": "audited",
+      "financial": "yes",
+      "operational": "yes",
+      "status": "done",
+      "total1": 120,
+      "total2": 115
+    },
+    {
+      "action": "no",
+      "period": "2024-10-05",
+      "resultType": "projected",
+      "financial": "no",
+      "operational": "yes",
+      "status": "pending",
+      "total1": 140,
+      "total2": 125
+    }
+  ]
+  
